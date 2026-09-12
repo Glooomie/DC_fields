@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fieldline",
+      "hasCanvas": true,
+      "bodyTextLen": 3345,
+      "bodyTextHash": "5e1ec76fc514e1d459e1e9a2e791881de574e784ce8accf6584c2630b18ecba9",
+      "bodyTextPrefix": "FIELDLINE What 1500 V DC cables couple into a neighbour True mil",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fieldline",
+      "hasCanvas": true,
+      "bodyTextLen": 3345,
+      "bodyTextHash": "5e1ec76fc514e1d459e1e9a2e791881de574e784ce8accf6584c2630b18ecba9",
+      "bodyTextPrefix": "FIELDLINE What 1500 V DC cables couple into a neighbour True mil",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
